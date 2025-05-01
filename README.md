@@ -76,19 +76,30 @@ input_data = {
     'MonthlyCharges': 29.85,
     'TotalCharges': 29.85
 }
+
 🚀 Getting Started
 
-    Clone the repo:
+    Clone the repository
+    Open your terminal or command prompt and run:
 
 git clone https://github.com/Mueez-lab/CustomerChurn_Prediction.git
 cd CustomerChurn_Prediction
 
-Install dependencies:
+Install dependencies
+(Make sure you have Python installed)
 
 pip install -r requirements.txt
 
-Run the notebook or script:
+Run the notebook
 
-    Load the model and encoders from .pkl files
+    Open the Jupyter Notebook:
 
-    Use your own input data for predictions
+    jupyter notebook
+
+    Open the customer_churn_prediction.ipynb file.
+
+Make Predictions
+
+    Load the trained model and encoders from the .pkl files provided (Customer_Churn_model.pkl, encoders.pkl).
+
+    Provide your own input data in the dictionary format as shown in the notebook to get predictions.
