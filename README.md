@@ -76,3 +76,19 @@ input_data = {
     'MonthlyCharges': 29.85,
     'TotalCharges': 29.85
 }
+🚀 Getting Started
+
+    Clone the repo:
+
+git clone https://github.com/Mueez-lab/CustomerChurn_Prediction.git
+cd CustomerChurn_Prediction
+
+Install dependencies:
+
+pip install -r requirements.txt
+
+Run the notebook or script:
+
+    Load the model and encoders from .pkl files
+
+    Use your own input data for predictions
